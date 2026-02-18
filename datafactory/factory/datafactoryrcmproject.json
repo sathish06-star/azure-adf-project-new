@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryrcmproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "948ec16f-bda9-4e24-808b-2eacdcc61700",
+		"tenantId": "4fce493f-1743-4d33-bdec-79e288863c19"
+	}
+}
