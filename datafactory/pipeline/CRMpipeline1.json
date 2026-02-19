@@ -296,7 +296,7 @@
 				]
 			},
 			{
-				"name": "Succed",
+				"name": "Succees",
 				"type": "WebActivity",
 				"dependsOn": [],
 				"policy": {
